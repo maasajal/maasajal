@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile!
 
+<img src="/images/banner.png" />
+
 ## About Me
 
 - 🔭 I’m currently working on:
