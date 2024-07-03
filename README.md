@@ -2,11 +2,13 @@
 
 Welcome to my GitHub profile!
 
+<a href="https://www.linkedin.com/in/maa-sajal">
 <img src="/images/banner.png" />
+</a>
 
 ## About Me
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on: Building a Personal Portfolio using React.js, Vite, Tailwindcss, DaisyUI, EmailJS
 - 🌱 I’m currently learning: Advanced React and Next JS
 - 👯 I’m looking to collaborate on: Open-source web development projects
 - 💬 Ask me about: JavaScript, React, Node.js, Firebase, MongoDB, and web development
@@ -38,12 +40,16 @@ Welcome to my GitHub profile!
 <img src="/images/icons/cpp.png" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maasajal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 ## Projects
 
 - [One Tower - Building Management System](https://one1-tower.web.app): The One Tower project is a comprehensive Building Management System (BMS) designed to streamline the management and operations of a single building.
 - [Auto Librarian](https://auto-e-librarian.web.app): An automated system for borrowing books from a library. Auto Librarian is an innovative e-library project designed to revolutionize the way users access and interact with digital books.
 
-## Connect with Me
+## :mailbox: Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/maa-sajal)
 - [Email](mailto:maas.sajal@gmail.com)
