@@ -88,7 +88,15 @@ Welcome to my GitHub profile!
 
 ## :mailbox: Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/maa-sajal)
-- [Email](mailto:maas.sajal@gmail.com)
+<p align="center">
+
+  [<img style="padding: 5px" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maa-sajal)
+  <!-- <br> -->
+  [<img style="padding: 5px" alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:maas.sajal@gmail.com)
+</p>
+
+<!-- - [LinkedIn](https://www.linkedin.com/in/maa-sajal)
+- [Email](mailto:maas.sajal@gmail.com) -->
+
 <!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maasajal&show_icons=true&theme=radical) -->
