@@ -1,4 +1,4 @@
-# Hello, I'm Abdullah Sajal 👋
+# Hello, I'm Md Abdullah All Sajal 👋
 
 Welcome to my GitHub profile!
 
@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on: Building a Personal Portfolio using React.js, Vite, Tailwindcss, DaisyUI, EmailJS
-- 🌱 I’m currently learning: Advanced React and Next JS
+- 🔭 I’m currently working on: Team project named RevBoost Solutions using React.js, Vite, Tailwindcss, Material UI, TypeScript, Redux, Node.js, Express.js, Mongoose, Firebase, EmailJS
+- 🌱 I’m currently learning: Advanced React, TypeScript, Redux, Mongoose and Next.js
 - 👯 I’m looking to collaborate on: Open-source web development projects
 - 💬 Ask me about: JavaScript, React, Node.js, Firebase, MongoDB, and web development
 - 😄 Pronouns: He/Him
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 
 ## :computer: Technologies that I know and work with
 
-<p>
+<p style="padding: 5px">
   <img style="padding: 5px" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img style="padding: 5px" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img style="padding: 5px" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -82,8 +82,12 @@ Welcome to my GitHub profile!
 
 ## Projects
 
+- [RevBoost Solutions - A Company Revenue Generation Platform](https://revboost.business-easy.com): The RevBoost Solutions aims to be a solution that provides a simple solution to everything from managing client’s finances to ensuring accurate TAX and VAT, invoicing, and billing. There will be a clear description of how much money is being earned in which sector and how much money is being spent in which sector. Where will get a complete overview of their company's growth!
+
 - [One Tower - Building Management System](https://one1-tower.web.app): The One Tower project is a comprehensive Building Management System (BMS) designed to streamline the management and operations of a single building.
+
 - [Auto Librarian](https://auto-e-librarian.web.app): An automated system for borrowing books from a library. Auto Librarian is an innovative e-library project designed to revolutionize the way users access and interact with digital books.
+
 - [Tampereen Sähköopiskelijat TASO ry](https://taso-tamk-fi.netlify.app): TASO is a sub-association of the Tampere University of Applied Sciences (TAMK) student body (TAMKO). The majority of the club's members are electrical and automation students, but since any student at TAMK can become a member of TASO, many students from different degree programs have joined the strength of TASO.
 
 ## :mailbox: Connect with Me
