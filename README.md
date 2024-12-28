@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I’m currently working on: Team project named RevBoost Solutions using React.js, Vite, Tailwindcss, Material UI, TypeScript, Redux, Node.js, Express.js, Mongoose, Firebase, EmailJS
+- 🔭 I’m currently working on: Live project at BusinessEasy Umrah using React Next.js, Tailwindcss, Material UI, TypeScript, Redux, Node.js, Express.js, Firebase
 - 🌱 I’m currently learning: Advanced React, TypeScript, Redux, Mongoose and Next.js
 - 👯 I’m looking to collaborate on: Open-source web development projects
 - 💬 Ask me about: JavaScript, React, Node.js, Firebase, MongoDB, and web development
@@ -18,7 +18,7 @@ Welcome to my GitHub profile!
 ## Skills
 
 - **Languages**: JavaScript, C++, HTML5, CSS3,
-- **Frameworks**: React, Node.js, Express
+- **Frameworks**: React, Node.js, Express, Next.js
 - **Tools**: Git, Firebase, MongoDB
 
 ## :computer: Technologies that I know and work with
@@ -28,6 +28,9 @@ Welcome to my GitHub profile!
   <img style="padding: 5px" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img style="padding: 5px" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img style="padding: 5px" alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img style="padding: 5px" alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img style="padding: 5px" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img style="padding: 5px" alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img style="padding: 5px" alt="React-Bootstrap" src="https://img.shields.io/badge/-React--Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
   <img style="padding: 5px" alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img style="padding: 5px" alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -44,7 +47,6 @@ Welcome to my GitHub profile!
   <img style="padding: 5px" alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img style="padding: 5px" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img style="padding: 5px" alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img style="padding: 5px" alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img style="padding: 5px" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img style="padding: 5px" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img style="padding: 5px" alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -94,9 +96,12 @@ Welcome to my GitHub profile!
 
 <p align="center">
 
-  [<img style="padding: 5px" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maa-sajal)
+[<img style="padding: 5px" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maa-sajal)
+
   <!-- <br> -->
-  [<img style="padding: 5px" alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:maas.sajal@gmail.com)
+
+[<img style="padding: 5px" alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:maas.sajal@gmail.com)
+
 </p>
 
 <!-- - [LinkedIn](https://www.linkedin.com/in/maa-sajal)
